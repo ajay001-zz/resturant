@@ -1,0 +1,11 @@
+1.Custom -HTML,CSS
+2.Database Design-PHPmyadmin
+3.Design Admin Section/partition of different section
+4.Admin Module
+5.Add Admin
+6.configuration file (constants.php)for database connection for every individual pages.
+7.
+Displaying Admin in Table
+8. Delete,Update admin
+9.Change password
+10.Adding message color
